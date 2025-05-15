@@ -5,51 +5,51 @@ Este projeto tem como objetivo auxiliar o Sr. João na tomada de decisão sobre 
 
 Realizar uma análise comparativa entre as quatro lojas da rede, avaliando métricas como:
 
-Faturamento total;
+✔️ Faturamento total;
 
-Categorias mais vendidas e mais rentáveis;
+✔️ Categorias mais vendidas e mais rentáveis;
 
-Produtos mais vendidos e mais rentáveis;
+✔️ Produtos mais vendidos e mais rentáveis;
 
-Média de avaliações dos clientes por compra e por categoria de produto;
+✔️ Média de avaliações dos clientes por compra e por categoria de produto;
 
-Frete médio por loja.
+✔️ Frete médio por loja.
 
 A partir dessas informações, será feita uma recomendação sobre qual loja possui a menor eficiência e pode ser descontinuada para viabilizar um novo empreendimento.
 
 🧰 Tecnologias Utilizadas
 
-Python 3.x
+✔️ Python 3.x
 
-Pandas para manipulação de dados
+✔️ Pandas para manipulação de dados
 
-Matplotlib para visualização gráfica
+✔️ Matplotlib para visualização gráfica
 
 📂 Dados Utilizados
 
 Os dados utilizados foram extraídos de arquivos CSV das seguintes lojas:
 
-Loja 1
+✔️ Loja 1
 
-Loja 2
+✔️ Loja 2
 
-Loja 3
+✔️ Loja 3
 
-Loja 4
+✔️ Loja 4
 
 🔎 Etapas da Análise
 
-Importação e organização dos dados Leitura de arquivos CSV e criação de estruturas de dados dinâmicas.
+✔️ Importação e organização dos dados Leitura de arquivos CSV e criação de estruturas de dados dinâmicas.
 
-Faturamento total por loja Cálculo do faturamento total com visualizações comparativas em gráficos de coluna.
+✔️ Faturamento total por loja Cálculo do faturamento total com visualizações comparativas em gráficos de coluna.
 
-Categorias mais vendidas e mais rentáveis Análise da quantidade de vendas e do faturamento por categoria com gráfico pizza e de coluna.
+✔️ Categorias mais vendidas e mais rentáveis Análise da quantidade de vendas e do faturamento por categoria com gráfico pizza e de coluna.
 
-Média de avaliação por loja e por categoria de produto Avaliação da satisfação dos clientes com gráficos de dispersão.
+✔️ Média de avaliação por loja e por categoria de produto Avaliação da satisfação dos clientes com gráficos de dispersão.
 
-Produtos mais vendidos e mais rentáveis Identificação de produtos com maior desempenho de vendas com gráfico de coluna.
+✔️ Produtos mais vendidos e mais rentáveis Identificação de produtos com maior desempenho de vendas com gráfico de coluna.
 
-Frete médio por loja Análise do custo médio de frete praticado por cada loja através de gráfico de coluna.
+✔️ Frete médio por loja Análise do custo médio de frete praticado por cada loja através de gráfico de coluna.
 
 🧠 Habilidades Praticadas
 
